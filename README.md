@@ -1,4 +1,4 @@
 # chiti-the-robot
 chiti the robot gng 
 the gpt chat
-https://chatgpt.com/c/68ef608c-794c-8320-b9a1-fc273802563f
+https://chatgpt.com/g/g-p-68fda0342cf08191b82bbf806358ff60-esp32-robotic-arm/project
